@@ -1,0 +1,28 @@
+[submodule "ML_Algorithms"]
+	path = ML_Algorithms
+	url = https://github.com/rcwang2024/ML_Algorithms.git
+	branch = main
+[submodule "Mathematics_for_ML"]
+	path = Mathematics_for_ML
+	url = https://github.com/rcwang2024/Mathematics_for_ML.git
+	branch = main
+[submodule "Bioinformatics_practice"]
+	path = Bioinformatics_practice
+	url = https://github.com/rcwang2024/Bioinformatics_practice.git
+	branch = main
+[submodule "Notes_on_Python"]
+	path = Notes_on_Python
+	url = https://github.com/rcwang2024/Notes_on_Python.git
+	branch = main
+[submodule "Notes_on_R"]
+	path = Notes_on_R
+	url = https://github.com/rcwang2024/Notes_on_R.git
+	branch = main
+[submodule "Notes_on_LinuxGit"]
+	path = Notes_on_LinuxGit
+	url = https://github.com/rcwang2024/Notes_on_LinuxGit.git
+	branch = main
+[submodule "Notes_on_AWS"]
+	path = Notes_on_AWS
+	url = https://github.com/rcwang2024/Notes_on_AWS.git
+	branch = main
